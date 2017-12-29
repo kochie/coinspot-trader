@@ -1,0 +1,19 @@
+{
+  "name": "coinspottrader",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kochie/coinspottrader.git"
+  },
+  "author": "robert@kochie.io",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kochie/coinspottrader/issues"
+  },
+  "homepage": "https://github.com/kochie/coinspottrader#readme"
+}
